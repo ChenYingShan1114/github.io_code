@@ -1,0 +1,86 @@
+baseURL = 'http://ChenYingShan1114.github.io/'
+title = 'Ying-Shan Chen@TW ~ $'
+theme = 'erblog'
+pagination.pagerSize = 10
+languageCode = 'en-us'
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+    author = "Ying-Shan Chen"
+    skills_color = "cyan"
+    badge = "gray"
+    quote = "gray"
+    # notice = "Hello, world. This is a notification."
+    # notice_color = "red"
+    index_posts_num = 10
+    google_search = true
+    math = true
+
+    # logo = "/self/img/logo.png"
+    bio = """
+    <p> Disciplined and curious physics student with experience in computer graphics and data visualization, able to learn any design software as need. Aspiring to apply my knowledge to real-world challenges by completing a challeeeenging technical project as a Product Design Engineering Intern at Google. </p>
+    <br />
+    <p>Also all html tags such as <a href="https://github.com/ertuil/erblog">link</a> are a good here.</p>
+    """
+    description = """ 陳盈珊 """
+    copyright = "Copyright © 2025 Ying-Shan (Sandy) Chen, Steve Francia and the Hugo Authors; all rights reserved."
+
+[[menu.main]]
+    url = "/about/"
+    name = "~/about"
+    weight = 1
+
+[[menu.main]]
+    url = "/publications/"
+    name = "~/publications"
+    weight = 2
+
+[[menu.main]]
+    url = "/projects_physics/"
+    name = "~/projects/physics"
+    weight = 3
+
+[[menu.main]]
+    url = "/projects_cg/"
+    name = "~/projects/cg"
+    weight = 4
+
+[[menu.main]]
+    url = "/projects_animation/"
+    name = "~/projects/animation"
+    weight = 5
+
+[[menu.main]]
+    url = "/gallery/"
+    name = "~/gallery"
+    weight = 6
+
+[[menu.icon]]
+    url = "mailto:cindy1999881114@gmail.com"
+    name = "envelope-o"
+    weight = 1
+
+
+[[menu.icon]]
+    url = "https://github.com/ChenYingShan1114/"
+    name = "github"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://www.facebook.com/yingshan.chen.33/"
+    name = "facebook"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/ying-shan-chen-4a3b30245/"
+    name = "linkedin"
+    weight = 1
+    
+    
