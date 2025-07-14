@@ -6,8 +6,8 @@ jobtitle: [
 ]
 company: "Google"
 location: ""
-date: '2025-07-25'
-periods: ["July 14 2025 - July 13 2026"]
+date: '2025-07-14'
+periods: ["July 14 2025 - July 14 2026"]
 jobs: [
     ["Google Anaylytics 4"]
 ]

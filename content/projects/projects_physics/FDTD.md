@@ -3,6 +3,7 @@ author: "Ying-Shan Chen"
 title: "One-Dimensional Simulation with the FDTD Method"
 date: '2020-10-20'
 categories: [
+    "physics",
     "research project"
 ]
 tags: [

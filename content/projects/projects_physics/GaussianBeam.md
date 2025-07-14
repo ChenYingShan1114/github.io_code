@@ -3,6 +3,7 @@ author: "Ying-Shan Chen"
 title: "Derivation of Gaussian Beam under 2D space and 3D space"
 date: '2021-10-05'
 categories: [
+    "physics",
     "research project"
 ]
 tags: [

@@ -3,6 +3,7 @@ author: "Ying-Shan Chen"
 title: "Vortex Dynamics in 2-dimensional Soap Film Turbulence"
 date: '2020-06-09'
 categories: [
+    "physics",
     "course project"
 ]
 tags: [

@@ -3,6 +3,7 @@ author: "Ying-Shan Chen"
 title: "Rutherford Scattering"
 date: '2023-10-14'
 categories: [
+    "physics",
     "TA project"
 ]
 tags: [

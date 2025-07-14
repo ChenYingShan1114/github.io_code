@@ -3,6 +3,7 @@ author: "Ying-Shan Chen"
 title: "Acceptance-Rejection Distribution Generator"
 date: '2023-12-14'
 categories: [
+    "physics",
     "TA project"
 ]
 tags: [

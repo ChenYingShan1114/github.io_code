@@ -3,6 +3,7 @@ author: "Ying-Shan Chen"
 title: "Eye Controlled Two-wheel Robot"
 date: '2019-06-06'
 categories: [
+    "physics",
     "course project"
 ]
 tags: [

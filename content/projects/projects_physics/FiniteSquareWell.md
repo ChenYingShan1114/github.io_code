@@ -3,6 +3,7 @@ author: "Ying-Shan Chen"
 title: "Finite Square Well"
 date: '2023-10-30'
 categories: [
+    "physics",
     "TA project"
 ]
 tags: [

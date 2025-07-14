@@ -3,6 +3,7 @@ author: "Ying-Shan Chen"
 title: "Korteweg de Vries Equation"
 date: '2023-11-14'
 categories: [
+    "physics",
     "TA project"
 ]
 tags: [

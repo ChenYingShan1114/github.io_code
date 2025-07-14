@@ -3,6 +3,7 @@ author: "Ying-Shan Chen"
 title: "Simple Digital Filter – Frequency Domain Analysis"
 date: '2023-11-07'
 categories: [
+    "physics",
     "TA project"
 ]
 tags: [

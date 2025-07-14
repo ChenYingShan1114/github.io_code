@@ -3,6 +3,7 @@ author: "Ying-Shan Chen"
 title: "Two Stream Instability Simulation in Plasma Physics"
 date: '2022-03-16'
 categories: [
+    "physics",
     "research project"
 ]
 tags: [

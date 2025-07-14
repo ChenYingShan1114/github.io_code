@@ -3,6 +3,7 @@ author: "Ying-Shan Chen"
 title: "Particle-in-Cell Simulation of Phase-Matched High Harmonics Generation in Highly Ionized Plasmas"
 date: '2021-06-11'
 categories: [
+    "physics",
     "research project"
 ]
 tags: [

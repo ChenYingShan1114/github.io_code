@@ -3,6 +3,7 @@ author: "Ying-Shan Chen"
 title: "Analysis of the Temperature Data at Hualien between 2010-2020"
 date: '2023-05-11'
 categories: [
+    "physics",
     "course project"
 ]
 tags: [

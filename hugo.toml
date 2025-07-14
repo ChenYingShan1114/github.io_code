@@ -40,14 +40,14 @@ footnoteReturnLinkContents = "^"
     weight = 2
 
 [[menu.main]]
+    url = "/projects/"
+    name = "~/projects"
+    weight = 5
+
+[[menu.main]]
     url = "/gallery/"
     name = "~/gallery"
     weight = 6
-
-[[menu.main]]
-    url = "/projects/"
-    name = "~/projects"
-    weight = 7
 
 [[menu.icon]]
     url = "mailto:cindy1999881114@gmail.com"

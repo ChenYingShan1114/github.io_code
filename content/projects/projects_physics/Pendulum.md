@@ -3,6 +3,7 @@ author: "Ying-Shan Chen"
 title: "Compound Pendulums"
 date: '2019-12-17'
 categories: [
+    "physics",
     "course project"
 ]
 tags: [
