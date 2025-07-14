@@ -23,16 +23,22 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-05-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/computer-graphics/</loc>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/computer-graphics/</loc>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/nvidia-omniverse/</loc>
     <lastmod>2025-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_cg/pancakesimulation/</loc>
+    <loc>http://localhost:1313/projects/projects_cg/pancakesimulation/</loc>
     <lastmod>2025-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/physics-engine/</loc>
     <lastmod>2025-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_cg/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/work-project/</loc>
@@ -50,22 +56,10 @@
     <loc>http://localhost:1313/categories/mini-project/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects_animation/</loc>
-    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/projects_animation/walkcycle/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_animation/walkcycle/</loc>
-    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/projects_animation/bouncingballwithlegs/</loc>
-    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects_animation/bouncingballwithlegs/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jobs/itri_2/</loc>
@@ -83,9 +77,6 @@
     <loc>http://localhost:1313/projects/projects_animation/moonshineposter/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_animation/moonshineposter/</loc>
-    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/unreal-engine/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -95,16 +86,10 @@
     <loc>http://localhost:1313/projects/projects_animation/bouncingballwithtail/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_animation/bouncingballwithtail/</loc>
-    <lastmod>2025-03-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/audio-visualization/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/projects_animation/moonshineosc/</loc>
-    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects_animation/moonshineosc/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/open-sound-control/</loc>
@@ -117,9 +102,6 @@
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/projects_animation/bouncingball/</loc>
-    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects_animation/bouncingball/</loc>
     <lastmod>2025-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jobs/itri_1/</loc>
@@ -140,10 +122,7 @@
     <loc>http://localhost:1313/publications_journal/</loc>
     <lastmod>2024-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_cg/curvefitting/</loc>
-    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/computer-graphics/</loc>
+    <loc>http://localhost:1313/projects/projects_cg/curvefitting/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/python/</loc>
@@ -161,9 +140,6 @@
     <loc>http://localhost:1313/projects/projects_animation/walle/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_animation/walle/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/rendering/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -171,9 +147,6 @@
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/projects_animation/locomotions/</loc>
-    <lastmod>2024-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects_animation/locomotions/</loc>
     <lastmod>2024-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pinterest/</loc>
@@ -200,22 +173,13 @@
     <loc>http://localhost:1313/tags/numerical-integration/</loc>
     <lastmod>2023-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_physics/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/ta-project/</loc>
     <lastmod>2023-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/projects_physics/besselfunction/</loc>
     <lastmod>2023-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_physics/besselfunction/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/projects_physics/distributiongenerator/</loc>
-    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects_physics/distributiongenerator/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/random-number/</loc>
@@ -228,9 +192,6 @@
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/projects_physics/kortewegdevriesequation/</loc>
-    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects_physics/kortewegdevriesequation/</loc>
     <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/partial-differential-equation/</loc>
@@ -248,13 +209,7 @@
     <loc>http://localhost:1313/projects/projects_physics/simpledigitalfilter/</loc>
     <lastmod>2023-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_physics/simpledigitalfilter/</loc>
-    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/projects_physics/finitesquarewell/</loc>
-    <lastmod>2023-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects_physics/finitesquarewell/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/quantum-mechanics/</loc>
@@ -272,22 +227,13 @@
     <loc>http://localhost:1313/projects/projects_physics/rutherfordscattering/</loc>
     <lastmod>2023-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_physics/rutherfordscattering/</loc>
-    <lastmod>2023-10-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/substance-3d-painter/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/projects_animation/scene/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_animation/scene/</loc>
-    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/projects_physics/analyzetemperature/</loc>
-    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects_physics/analyzetemperature/</loc>
     <lastmod>2023-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/course-project/</loc>
@@ -296,25 +242,22 @@
     <loc>http://localhost:1313/projects/projects_animation/rocket/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_animation/rocket/</loc>
-    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/c&#43;&#43;/</loc>
     <lastmod>2022-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/openglut/</loc>
     <lastmod>2022-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_cg/zbufferandshading/</loc>
+    <loc>http://localhost:1313/projects/projects_cg/zbufferandshading/</loc>
     <lastmod>2022-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_cg/3dcgpipeline/</loc>
+    <loc>http://localhost:1313/projects/projects_cg/3dcgpipeline/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_cg/transformationandclipping/</loc>
+    <loc>http://localhost:1313/projects/projects_cg/transformationandclipping/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_cg/paintbrush/</loc>
+    <loc>http://localhost:1313/projects/projects_cg/paintbrush/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/certification/padi/</loc>
@@ -332,7 +275,7 @@
     <loc>http://localhost:1313/categories/note/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_cg/notecg/</loc>
+    <loc>http://localhost:1313/projects/projects_cg/notecg/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/theory/</loc>
@@ -350,9 +293,6 @@
     <loc>http://localhost:1313/projects/projects_physics/twostreaminstability/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_physics/twostreaminstability/</loc>
-    <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/researchers/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -365,9 +305,6 @@
     <loc>http://localhost:1313/projects/projects_physics/gaussianbeam/</loc>
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_physics/gaussianbeam/</loc>
-    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/gauussian-beam/</loc>
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -377,16 +314,10 @@
     <loc>http://localhost:1313/projects/projects_physics/hhg/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_physics/hhg/</loc>
-    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/finite-difference-time-domain-method/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/projects_physics/fdtd/</loc>
-    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects_physics/fdtd/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/experimental-physics/</loc>
@@ -404,13 +335,7 @@
     <loc>http://localhost:1313/projects/projects_physics/soapturbulence/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects_physics/soapturbulence/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/projects_physics/pendulum/</loc>
-    <lastmod>2019-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects_physics/pendulum/</loc>
     <lastmod>2019-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pendulum/</loc>
@@ -435,9 +360,6 @@
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/projects_physics/eyecontrolledtwowheelrobot/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects_physics/eyecontrolledtwowheelrobot/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pid-controller/</loc>

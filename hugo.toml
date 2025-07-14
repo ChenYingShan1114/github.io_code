@@ -40,21 +40,6 @@ footnoteReturnLinkContents = "^"
     weight = 2
 
 [[menu.main]]
-    url = "/projects_physics/"
-    name = "~/projects/physics"
-    weight = 3
-
-[[menu.main]]
-    url = "/projects_cg/"
-    name = "~/projects/cg"
-    weight = 4
-
-[[menu.main]]
-    url = "/projects_animation/"
-    name = "~/projects/animation"
-    weight = 5
-
-[[menu.main]]
     url = "/gallery/"
     name = "~/gallery"
     weight = 6
@@ -84,5 +69,4 @@ footnoteReturnLinkContents = "^"
     url = "https://www.linkedin.com/in/ying-shan-chen-4a3b30245/"
     name = "linkedin"
     weight = 1
-    
     
