@@ -14,6 +14,7 @@ tags: [
     "electromagnetic"
 ]
 link: https://optic2023.conf.tw/site/order/1495/SessionDetail.aspx?sid=1495&lang=en&snid=C&rmid=C13
+draft: true
 ---
 2023-12-01 ~ 2022-12-03
 https://optic2023.conf.tw/site/page.aspx?pid=901&sid=1495&lang=en

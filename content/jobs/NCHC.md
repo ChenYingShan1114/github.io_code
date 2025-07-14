@@ -13,5 +13,5 @@ moreinfo: false
 skills: [
     ["Full-time Job", "Hybrid Work", "Maya", "Python", "NVIDIA Omniverse"]
 ]
-logo: ./logo/NCHC.png
+logo: /self/img/logo/NCHC.png
 ---

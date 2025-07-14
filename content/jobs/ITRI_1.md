@@ -13,5 +13,5 @@ moreinfo: false
 skills: [
     ["Full-time Job", "Hybrid Work", "HTML", "CSS", "JavaScript", "Computer Graphics", "3DGS"]
 ]
-logo: ./logo/ITRI_fix.png
+logo: /self/img/logo/ITRI_fix.png
 ---

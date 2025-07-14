@@ -10,7 +10,7 @@ jobs: [
     ["GPA: 4.0"]
 ]
 moreinfo: false
-logo: ./logo/NCU.jpg
+logo: /self/img/logo/NCU.jpg
 
 ---
 GPA: 4.0/4.0

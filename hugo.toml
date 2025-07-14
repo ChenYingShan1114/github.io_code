@@ -24,10 +24,7 @@ footnoteReturnLinkContents = "^"
     math = true
 
     # logo = "/self/img/logo.png"
-    bio = """
-    <p> Disciplined and curious physics student with experience in computer graphics and data visualization, able to learn any design software as need. Aspiring to apply my knowledge to real-world challenges by completing a challeeeenging technical project as a Product Design Engineering Intern at Google. </p>
-    <br />
-    <p>Also all html tags such as <a href="https://github.com/ertuil/erblog">link</a> are a good here.</p>
+    bio = """I’m a physicist turned visual storyteller and computational wizard, crafting stunning animations and physics-based simulations. With a strong foundation in physics and years of research and industry experience, I love merging science and art to build immersive 3D worlds. Whether simulating plasma particles through code, rigging robots in Maya, or implementing physics-based animation in Omniverse, I turn complex ideas into compelling visual stories. Dive in and explore where imagination meets code and becomes reality.
     """
     description = """ 陳盈珊 """
     copyright = "Copyright © 2025 Ying-Shan (Sandy) Chen, Steve Francia and the Hugo Authors; all rights reserved."
@@ -61,6 +58,11 @@ footnoteReturnLinkContents = "^"
     url = "/gallery/"
     name = "~/gallery"
     weight = 6
+
+[[menu.main]]
+    url = "/projects/"
+    name = "~/projects"
+    weight = 7
 
 [[menu.icon]]
     url = "mailto:cindy1999881114@gmail.com"

@@ -9,11 +9,11 @@ location: "Tainan City, Taiwan"
 date: '2022-02-01'
 periods: ["February 2022 - January 2024"]
 jobs: [
-    []
+    ["Advised by <a href='https://sites.google.com/gs.ncku.edu.tw/lppl/實驗室主持人'>Prof. Yao-Li Liu</a>"]
 ]
 moreinfo: false
 skills: [
     ["Remote Work"]
 ]
-logo: ./logo/NCKU.jpg
+logo: /self/img/logo/NCKU.jpg
 ---

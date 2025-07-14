@@ -11,7 +11,7 @@ location: "Taoyuan City, Taiwan"
 date: '2019-09-01'
 periods: ["September 2019 - January 2024", "February 2020 - January 2022", "September 2022 - January 2024"]
 jobs: [
-    ["Courses: Applied Mathematics, Mechanics, Electromagnetism, Optics, Programming in Physics, Physics of Waves, Introduction to Computational Physics, Programming in General Physics, Student Service-Learning",
+    ["Courses: Applied Mathematics, Mechanics, Electromagnetism, Optics, Programming in Physics, Physics of Waves, <a href='./projects_physics/ta_introtocomphysics/'>Introduction to Computational Physics</a>, Programming in General Physics, Student Service-Learning",
     "Participate in course planning and professional knowledge discussions.",
     "Actively communicate with professor and students."], 
     ["Handle general affairs and serve as secretary of the fan page."],
@@ -23,7 +23,7 @@ skills: [
     ["On-site Work"],
     ["Remote Work"]
 ]
-logo: ./logo/NCU.jpg
+logo: /self/img/logo/NCU.jpg
 
 ---
 

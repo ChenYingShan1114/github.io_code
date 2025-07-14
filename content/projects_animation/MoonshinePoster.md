@@ -14,6 +14,8 @@ tags: [
 resume: "Developed a poster series using virtual production techniques, combining Unreal Engine and LED panels. Blended real-time rendering with physical cinematography to create immersive medieval environments."
 description: "A poster series created during my technical art internship at Moonshine Studio, using virtual production technology powered by Unreal Engine and LED panels. This project blends real-time rendering with physical cinematography to create immersive medieval scenes."
 ---
+Group members: 游沛勳 彭俊諺 張哲嘉 高秉誠 陳盈珊
+
 During my internship as a Technical Art Intern at Moonshine Studio which is one of Taiwan’s leading animation companies, I worked with professionals from diverse backgrounds, including 2D/3D animation, motion design, visual effects, post-production for film and TV, interactive media, and technical R&D. While many teams focused on traditional and digital production, I joined a specialized team pioneering Virtual Production at Moonshine XR Studio which is the first studio in Taiwan to adopt this technique.
 
 <h2> 🖥️ What Is Virtual Production? </h2>
@@ -71,12 +73,11 @@ My responsibilities included:
 
 This project gave me valuable hands-on experience at the intersection of technical direction and visual storytelling, and deepened my understanding of how real-time technology can enhance creative workflows in modern filmmaking.
 
-<img src="./MoonshinePoster_01.JPG" width="300" style="margin-left:10px;margin-top:10px;margin-right:10px;margin-bottom:10px"> 
-<img src="./MoonshinePoster_02.JPG" width="300" style="margin-left:10px;margin-top:10px;margin-right:10px;margin-bottom:10px"> 
-<img src="./MoonshinePoster_03.JPG" width="300" style="margin-left:10px;margin-top:10px;margin-right:10px;margin-bottom:10px"> 
-<img src="./MoonshinePoster_04.JPG" width="300" style="margin-left:10px;margin-top:10px;margin-right:10px;margin-bottom:10px"> 
+<img src="/self/img/projects_animation/MoonshinePoster/MoonshinePoster_01.JPG" width="300" style="margin-left:10px;margin-top:10px;margin-right:10px;margin-bottom:10px"> 
+<img src="/self/img/projects_animation/MoonshinePoster/MoonshinePoster_02.JPG" width="300" style="margin-left:10px;margin-top:10px;margin-right:10px;margin-bottom:10px"> 
+<img src="/self/img/projects_animation/MoonshinePoster/MoonshinePoster_03.JPG" width="300" style="margin-left:10px;margin-top:10px;margin-right:10px;margin-bottom:10px"> 
+<img src="/self/img/projects_animation/MoonshinePoster/MoonshinePoster_04.JPG" width="300" style="margin-left:10px;margin-top:10px;margin-right:10px;margin-bottom:10px"> 
 
-team members: 游沛勳 彭俊諺 張哲嘉 高秉誠 陳盈珊
 
 <h2> Finding My Path in the Animation Industry </h2>
 

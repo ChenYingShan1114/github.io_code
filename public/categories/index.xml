@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Ying-Shan Chen@TW ~ $</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work Project</title>
+      <link>http://localhost:1313/categories/work-project/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/work-project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animation</title>
+      <link>http://localhost:1313/categories/animation/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/animation/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Mini Project</title>
       <link>http://localhost:1313/categories/mini-project/</link>
@@ -27,6 +41,41 @@
       <link>http://localhost:1313/categories/intern-project/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/intern-project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Practice</title>
+      <link>http://localhost:1313/categories/practice/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/practice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TA Project</title>
+      <link>http://localhost:1313/categories/ta-project/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ta-project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Course Project</title>
+      <link>http://localhost:1313/categories/course-project/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/course-project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Note</title>
+      <link>http://localhost:1313/categories/note/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/note/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research Project</title>
+      <link>http://localhost:1313/categories/research-project/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/research-project/</guid>
       <description></description>
     </item>
     <item>

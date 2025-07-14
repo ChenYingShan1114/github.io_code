@@ -10,6 +10,6 @@ jobs: [
     ["Learning Swedish language and culture."]
 ]
 moreinfo: false
-logo: ./logo/LiU.png
+logo: /self/img/logo/LiU.png
 
 ---

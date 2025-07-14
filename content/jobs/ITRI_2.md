@@ -7,12 +7,12 @@ location: "Hsinchu County, Taiwan"
 date: '2025-03-24'
 periods: ["April 2025 - Present"]
 jobs: [
-    ["Using NVIDIA Omniverse to generate physics-based animation."]
+    ['true projects_cg/PancakeSimulation.md']
 ]
 moreinfo: false
 skills: [
     ["Full-time Job", "Hybrid Work", "Python", "NVIDIA Omniverse"]
 ]
-logo: ./logo/ITRI_fix.png
+logo: /self/img/logo/ITRI_fix.png
 
 ---
