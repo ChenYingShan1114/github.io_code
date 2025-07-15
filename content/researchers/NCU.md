@@ -21,7 +21,6 @@ jobs: [
     "Use MPI parallelized and controllable PIC code under LINUX system."
     ]
 ]
-moreinfo: false
 skills: [
     ["Hybrid Work", "Physics", "Calculus", "Python", "C++", "FORTRAN", "Data Analysis"],
     ["On-site Work"]

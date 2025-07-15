@@ -7,11 +7,10 @@ location: "Taipei City, Taiwan"
 date: '2025-03-03'
 periods: ["March 2025"]
 jobs: [
-    [   'true projects_animation/MoonshineOSC.md', 
-        'true projects_animation/MoonshinePoster.md'
+    [   'true projects/projects_animation/MoonshineOSC.md', 
+        'true projects/projects_animation/MoonshinePoster.md'
     ]
 ]
-moreinfo: false
 skills: [
     ["On-site Work", "Unreal Engine", "ToughDesigner", "Virtual Production"]
 ]

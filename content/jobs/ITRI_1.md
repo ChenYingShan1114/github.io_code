@@ -7,9 +7,8 @@ location: "Hsinchu County, Taiwan"
 date: '2024-08-21'
 periods: ["August 2024 - February 2025"]
 jobs: [
-    ["Using the model to build 3D Gaussian splat point clouds by taking lots of pictures for an object."]
+    ['true projects/projects_cg/3DGSfridge.md']
 ]
-moreinfo: false
 skills: [
     ["Full-time Job", "Hybrid Work", "HTML", "CSS", "JavaScript", "Computer Graphics", "3DGS"]
 ]

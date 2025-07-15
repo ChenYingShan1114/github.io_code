@@ -9,7 +9,6 @@ periods: ["September 2022 - January 2024"]
 jobs: [
     ["GPA: 4.0"]
 ]
-moreinfo: false
 logo: /self/img/logo/NCU.jpg
 
 ---

@@ -9,7 +9,6 @@ periods: ["August 2025.08 - Present"]
 jobs: [
     [""]
 ]
-moreinfo: false
 skills: [
     ["Full-time Job", "Hybrid Work", "Maya", "Python", "NVIDIA Omniverse"]
 ]

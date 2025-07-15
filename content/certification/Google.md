@@ -9,11 +9,10 @@ location: ""
 date: '2025-07-14'
 periods: ["July 14 2025 - July 14 2026"]
 jobs: [
-    ["Google Anaylytics 4"]
+    #[""]
 ]
-moreinfo: false
 skills: [
-    ["Data Analysis"]
+    #["Data Analysis"]
 ]
 logo: /self/img/logo/Google.png
 

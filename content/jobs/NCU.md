@@ -17,7 +17,6 @@ jobs: [
     ["Handle general affairs and serve as secretary of the fan page."],
     ["Handle general affairs and serve as secretary of the fan page."]
 ]
-moreinfo: false
 skills: [
     ["Hybrid Work", "Physics", "Calculus", "Python", "C++", "FORTRAN", "Data Analysis"],
     ["On-site Work"],
@@ -38,7 +37,6 @@ jobs: [
     "Courses: Applied Mathematics, Mechanics, Electromagnetism, Optics, Programming in Physics, Physics of Waves, Introduction to Computational Physics, Programming in General Physics, Student Service-Learning",
     "Participate in course planning and professional knowledge discussions.",
     "Actively communicate with professor and students."]
-moreinfo: false
 tags: ["Part-time Job", "Hybrid Work", "Physics", "Calculus", "Python", "C++", "FORTRAN", "Data Analysis"]
 logo: ./logo/NCU.jpg
 
@@ -50,7 +48,6 @@ location: "Taoyuan City, Taiwan"
 date: '2020-02-01'
 periods: "2020.02 - 2022.01"
 jobs: ["Handle general affairs and serve as secretary of the fan page."]
-moreinfo: false
 tags: ["Part-time Job", "On-site Work"]
 logo: ./logo/NCU.jpg
 
@@ -62,7 +59,6 @@ location: "Taoyuan City, Taiwan"
 date: '2022-09-01'
 periods: "2022.09 - 2024.01"
 jobs: ["Handle general affairs and serve as secretary of the fan page."]
-moreinfo: false
 tags: ["Part-time Job", "Remote Work"]
 logo: ./logo/NCU.jpg
 ---

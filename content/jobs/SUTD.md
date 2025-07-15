@@ -8,9 +8,8 @@ date: '2024-03-04'
 periods: ["March 2024 - June 2024"]
 jobs: [
     ["Advised by <a href='https://www.sutd.edu.sg/profile/ang-lay-kee-ricky'>Prof. ANG Lay Kee, Ricky</a>",
-    "Use Python, HTML and CSS language to build a website about urban fractional model."]
+    "true projects/projects_physics/UrbanFractionalModel.md"]
 ]
-moreinfo: false
 skills: [
     ["Full-time Job", "Hybrid Work", "Python", "HTML", "CSS", "Fractional Model", "Data Analysis"]
 ]

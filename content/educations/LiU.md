@@ -9,7 +9,6 @@ periods: ["July 2022 - August 2022"]
 jobs: [
     ["Learning Swedish language and culture."]
 ]
-moreinfo: false
 logo: /self/img/logo/LiU.png
 
 ---

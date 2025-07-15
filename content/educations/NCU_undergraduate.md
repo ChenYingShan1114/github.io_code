@@ -9,7 +9,6 @@ periods: ["September 2018 - June 2022"]
 jobs: [
     ["GPA: 3.9", "RANK: 3/53 (Top 6%)"]
 ]
-moreinfo: false
 logo: /self/img/logo/NCU.jpg
 
 ---
