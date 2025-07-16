@@ -1,7 +1,7 @@
 ---
 title: "A gallery"
 date: 2019-12-01T13:21:53+08:00
-draft: false
+draft: true
 ---
 ![0](/self/img/avatar.jpg)
 ![1](/self/img//logo/LiU.png)

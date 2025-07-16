@@ -11,40 +11,43 @@ tags: [
     "3D Gaussian Splat",
     "Java Script"
 ]
-resume: "Using the model to build 3D Gaussian splat point clouds by taking lots of pictures for an object."
+resume: "Generated 3D Gaussian Splatting models from multi-view object capture and implemented interactive animations using Three.js for real-to-sim visualization"
 
-description: "....."
+description: "Captured real-world objects to generate 3D Gaussian Splatting (3DGS) models and created interactive scenes with animations using Three.js."
 ---
 ## 3D Gaussian Splat Model
-At the beginning I started to work as intern in ITRI, my main job is taking picture for an object from different directions. The pictures should cover as many views from different direction as possible. After input the pictures as data into the program which the software engineer in our group already built, it will generate a .ply file which is like a point cloud model. However, those are not only points. They are <a href="https://github.com/MrNeRF/awesome-3D-gaussian-splatting?tab=readme-ov-file#seminal-paper-introducing-3d-gaussian-splatting"> Gaussian Splat </a>which have different color when audieunce see them from different direction. The higher the spherical harmonic order, the colorful the Gaussian splat, the more accuracy of the object model, the large the data storage need.
 
-It is a good technique that it can reconstruct the details on model, such like scratches or words. But it is hard to rebuild some transparent material, such like glass or acrylic sheet, or highly reflective material, such like iron. Also, highly symmetric model or dark color model are hard to find feature points. So it is also hard to rebuild. The following are two dolls that I reconstructed by this technique and it provides me a good way to keep some important memories without any physical space storage.
+During my internship at ITRI, I worked on capturing multi-view images of physical objects to generate <a href="https://github.com/MrNeRF/awesome-3D-gaussian-splatting?tab=readme-ov-file#seminal-paper-introducing-3d-gaussian-splatting">3D Gaussian Splatting (3DGS)</a> models. After taking photos from various angles, the images were processed into .ply files using our in-house pipeline. Unlike traditional point clouds, these models use anisotropic Gaussians with spherical harmonic shading, allowing them to reflect color and detail based on viewing direction.
 
-1. Slinky Dog, which is my favorite character in Pixar movies. It is a doll bought from Tokyo Disney Land.
+Higher-order spherical harmonics result in more vivid, accurate models—but also require more storage. This technique excels at capturing surface details such as scratches, engravings, and textures, but has limitations when handling transparent, reflective, symmetric, or low-contrast objects due to challenges in feature detection.
+
+Personally, I find 3DGS a meaningful way to digitally preserve sentimental items without taking up physical space. Below are two examples I reconstructed:
+
+1. Slinky Dog, which is my favorite Pixar character. I purchased at Tokyo Disneyland.
 <p align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/WyFcS6JCUUA?si=-PTVyFrgMxis6-VZ&autoplay=1&loop=1&playlist=WyFcS6JCUUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-2. Einstein doll, which my dad bought for me when he travel to Europe, because I am a physics major student and he is a professor in department of physics.
+2. Einstein doll, which my dad bought for me when he traveled to Europe, symbolizing our shared physics background.
 <p align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/A7ipDpDIhX8?si=AAKfSAixf4cqVkL2&autoplay=1&loop=1&playlist=A7ipDpDIhX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-## Animation on 3D Gaussian Splat
+## 3DGS Animation
 🔗 See more details <a href="https://github.com/ChenYingShan1114/Fridge-Animation"> here</a>.
 
-Next, I try to make the animation of 3DGS file in order to demo some real-to-sim technique. 
-1. My coworker generate a refrigerator with upper door opened. 
-2. I use <a href="https://superspl.at/editor/"> supersplat</a> as editor to split fridge's door and body into two models. Also, turn the rotational axis to the closest x, y, z axis in order to rotate fridge's door easily when making animation.
-Notice: Do not rotate the model too much because the spherical harmonic which represent different color watch from different direction on each point can't rotate with the model.
-3. I use three.js to make an animation, shown in following:
+To explore real-to-sim animation, I created an animated demo of a fridge model reconstructed using 3DGS:
+1. A 3DGS fridge model (with open door) was provided by a teammate.
+2. Using <a href="https://superspl.at/editor/"> SuperSplat</a> as editor, I segmented the fridge door and adjusted both fridge body and door models' pivot axis to the closest principle axis for animation.\
+⚠️ Note: Avoid large model rotations since spherical harmonics don’t rotate with the geometry.
+3. I implemented the animation using Three.js, rotating the door to simulate an opening sequence.
 
 <p align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/jVAnlvHCA4E?si=v34I36xKSirCQY-T&autoplay=1&loop=1&playlist=jVAnlvHCA4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-## Simulation Result
-Finally, I add a scene behind the fridge. Also, I can put a cake inside the fridge or on the table.
+## Final Scene
+To complete the simulation, I placed the fridge in a virtual room and added interactable elements such as a cake inside the fridge or on a table.
 <p align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/jRciGPLgf7U?si=vZgFnR9-Ms2Aqlow&autoplay=1&loop=1&playlist=jRciGPLgf7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/EEthVJPCRZo?si=xPuSPmrN77rIC-sx&autoplay=1&loop=1&playlist=EEthVJPCRZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
