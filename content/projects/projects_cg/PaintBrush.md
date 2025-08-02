@@ -3,13 +3,12 @@ author: "Ying-Shan Chen"
 title: "A Paint Brush"
 date: '2022-10-03'
 categories: [
-    "computer graphics",
-    "course project"
+    "Computer Graphics",
+    "Course Project"
 ]
 tags: [
-    "Computer Graphics",
-    "OpenGLUT",
-    "C++"
+    "C++",
+    "OpenGLUT"
 ]
 description: "A simple interactive drawing tool implemented with keyboard and mouse control. Supports drawing points, lines, circles, and polygons with real-time color changes. Includes undo and clear functions."
 ---

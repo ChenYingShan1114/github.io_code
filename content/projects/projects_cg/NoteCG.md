@@ -3,12 +3,8 @@ author: "Ying-Shan Chen"
 title: "Note: Computer Graphics"
 date: '2022-06-10'
 categories: [
-    "computer graphics",
-    "note"
-]
-tags: [
     "Computer Graphics",
-    "theory"
+    "Note"
 ]
 description: "Self-studied foundational computer graphics through online course by Prof. Lingqi Yan (UC Santa Barbara)."
 ---

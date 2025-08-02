@@ -3,12 +3,12 @@ author: "Ying-Shan Chen"
 title: "Walk Cycle Animation"
 date: '2025-04-13'
 categories: [
-    "animation",
-    "mini project"
+    "Animation",
+    "Mini Project"
 ]
 tags: [
-    "character animation",
-    "Autodesk Maya"
+    "Autodesk Maya",
+    "Character Animation"
 ]
 description: "A stylized walk cycle animated using a non-character object, focusing on rhythm, weight shift, and the illusion of locomotion through shape and timing alone."
 ---

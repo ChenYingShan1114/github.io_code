@@ -3,8 +3,8 @@ author: "Ying-Shan Chen"
 title: "Light Controlled by Sound in Real-time"
 date: '2025-03-14'
 categories: [
-    "animation",
-    "intern project"
+    "Animation",
+    "Intern Project"
 ]
 tags: [
     "Unreal Engine",

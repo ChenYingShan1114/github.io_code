@@ -3,12 +3,12 @@ author: "Ying-Shan Chen"
 title: "Bouncing Ball with Tail Animation"
 date: '2025-03-16'
 categories: [
-    "animation",
-    "mini project"
+    "Animation",
+    "Mini Project"
 ]
 tags: [
-    "character animation",
-    "Autodesk Maya"
+    "Autodesk Maya",
+    "Character Animation"
 ]
 description: "An animation of a bouncing ball with a tail and pendulum, demonstrating two key principles of expressive motion in character animation: follow through and overlapping action, and anticipation."
 ---

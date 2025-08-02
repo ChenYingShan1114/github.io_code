@@ -3,16 +3,15 @@ author: "Ying-Shan Chen"
 title: "Dynamics of Human Locomotion"
 date: '2024-03-30'
 categories: [
-    "animation",
-    "practice"
+    "Animation",
+    "Practice"
 ]
 tags: [
-    "UV texturing",
-    "animation",
-    "lighting",
-    "rendering",
     "Autodesk Maya",
-    "Pinterest"
+    "UV Texturing",
+    "Lighting",
+    "Character Animation",
+    "Rendering"
 ]
 description: "A comparative animation study of human locomotion, exploring the mechanical and expressive differences between jogging, sprinting, walking, and jumping. Through careful keyframing, the project highlights how body posture, joint force, and rhythm vary across movement styles."
 ---

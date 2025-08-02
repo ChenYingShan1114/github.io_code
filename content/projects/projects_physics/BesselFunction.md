@@ -3,11 +3,13 @@ author: "Ying-Shan Chen"
 title: "The Second Kind Bessel Function"
 date: '2023-12-21'
 categories: [
-    "physics",
-    "TA project"
+    "Physics",
+    "TA Project"
 ]
 tags: [
-    "Bessel Function",
+    "C++",
+    "Python",
+    "Mathematica",
     "Numerical Integration"
 ]
 description: "Computed Bessel functions of the second kind \\(Y_m(x)\\) using upward recursion, with starting values derived via analytical identities and numerical integration. Verified results by plotting \\(Y_m(x)\\) for various orders over the range \\(0 < x < 50\\)."

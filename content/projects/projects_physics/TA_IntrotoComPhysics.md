@@ -2,12 +2,9 @@
 author: "Ying-Shan Chen"
 title: "Introduction to Computational Physics"
 date: '1999-11-14'
-categories: [
-]
-tags: [
-]
+
 description: ""
-draft: true
+draft: false
 ---
 
 ## TA Project

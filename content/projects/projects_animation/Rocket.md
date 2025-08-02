@@ -3,17 +3,17 @@ author: "Ying-Shan Chen"
 title: "My First Step into Animation: Cartoon Rocket Launch"
 date: '2023-04-30'
 categories: [
-    "animation",
-    "practice"
+    "Animation",
+    "Practice"
 ]
 tags: [
-    "modeling",
-    "UV texturing",
-    "lighting",
-    "animation",
-    "rendering",
     "Autodesk Maya",
-    "PhotoShop"
+    "PhotoShop",
+    "Modeling",
+    "UV Texturing",
+    "Lighting",
+    "Character Animation",
+    "Rendering"
 ]
 description: "A stylized rocket launch animation created in Maya. The cartoon rocket symbolizes my first steps into animation, with dynamic smoke effects generated using Maya's particle system to enhance realism and motion."
 ---

@@ -3,13 +3,12 @@ author: "Ying-Shan Chen"
 title: "Z-buffer and Shading"
 date: '2022-12-26'
 categories: [
-    "computer graphics",
-    "course project"
+    "Computer Graphics",
+    "Course Project"
 ]
 tags: [
-    "Computer Graphics",
-    "OpenGLUT",
-    "C++"
+    "C++",
+    "OpenGLUT"
 ]
 description: "Implemented a 3D rendering pipeline with flat shading and z-buffering. The system parses transformation and lighting commands, supports perspective projection, back-face culling, and point light shading using the Phong reflection model."
 ---

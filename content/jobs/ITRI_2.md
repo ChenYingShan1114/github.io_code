@@ -7,7 +7,7 @@ location: "Hsinchu County, Taiwan"
 date: '2025-03-24'
 periods: ["April 2025 - Present"]
 jobs: [
-    ['true projects/projects_cg/PancakeSimulation.md']
+    ['true /projects/projects_cg/PancakeSimulation.md']
 ]
 skills: [
     ["Full-time Job", "Hybrid Work", "Python", "NVIDIA Omniverse"]

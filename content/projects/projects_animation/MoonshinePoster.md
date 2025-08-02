@@ -3,14 +3,14 @@ author: "Ying-Shan Chen"
 title: "Poster Series Made by Virtual Production"
 date: '2025-03-21'
 categories: [
-    "animation",
-    "intern project",
-    "group work"
+    "Animation",
+    "Intern Project",
+    "Group Work"
 ]
 tags: [
     "Unreal Engine",
-    "Virtual Production",
-    "PhotoShop"
+    "PhotoShop",
+    "Virtual Production"
 ]
 resume: "Developed a poster series using virtual production techniques, combining Unreal Engine and LED panels. Blended real-time rendering with physical cinematography to create immersive medieval environments."
 description: "A poster series created during my technical art internship at Moonshine Studio, using virtual production technology powered by Unreal Engine and LED panels. This project blends real-time rendering with physical cinematography to create immersive medieval scenes."

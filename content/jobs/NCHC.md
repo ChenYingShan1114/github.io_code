@@ -1,11 +1,11 @@
 ---
 author: "Ying-Shan Chen"
 title: "National Center for High-performance Computing, Hsinchu City, Taiwan"
-jobtitle: ["Software Engineer"]
+jobtitle: ["3D Physical Model Development Engineer"]
 company: "National Center for High-performance Computing (NCHC)"
 location: "Hsinchu City, Taiwan"
 date: '2025-08-01'
-periods: ["August 2025.08 - Present"]
+periods: ["August 2025 - Present"]
 jobs: [
     [""]
 ]

@@ -3,11 +3,10 @@ author: "Ying-Shan Chen"
 title: "A Curve Fitting Tool"
 date: '2024-05-26'
 categories: [
-    "computer graphics",
-    "mini project"
+    "Computer Graphics",
+    "Mini Project"
 ]
 tags: [
-    "Computer Graphics",
     "Python"
 ]
 description: "Implemented and compared multiple curve fitting and interpolation methods, parameterization techniques, spline continuity conditions, and subdivision algorithms for smooth curve generation and analysis."

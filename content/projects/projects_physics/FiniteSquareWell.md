@@ -3,12 +3,13 @@ author: "Ying-Shan Chen"
 title: "Finite Square Well"
 date: '2023-10-30'
 categories: [
-    "physics",
-    "TA project"
+    "Physics",
+    "TA Project"
 ]
 tags: [
+    "C++",
+    "Python",
     "Quantum Mechanics",
-    "Numerical Simulation",
     "Solving Systems of Equations"
 ]
 description: "This project applies Newton's method to solve the transcendental eigenvalue equations of a finite potential square well in quantum mechanics. It numerically estimates bound-state energy levels, using initial guesses derived from the infinite square well solution."

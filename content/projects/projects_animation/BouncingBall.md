@@ -3,12 +3,12 @@ author: "Ying-Shan Chen"
 title: "Bouncing Ball Animation"
 date: '2025-03-02'
 categories: [
-    "animation",
-    "mini project"
+    "Animation",
+    "Mini Project"
 ]
 tags: [
-    "character animation",
-    "Autodesk Maya"
+    "Autodesk Maya",
+    "Character Animation"
 ]
 series: ["animation"]
 description: "An animation created in Maya to demonstrate the motion of three different balls—bouncing, rolling, and floating—by applying the Twelve Principles of Animation for a stylized yet physically inspired effect."

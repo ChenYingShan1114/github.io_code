@@ -3,10 +3,12 @@ author: "Ying-Shan Chen"
 title: "Rutherford Scattering"
 date: '2023-10-14'
 categories: [
-    "physics",
-    "TA project"
+    "Physics",
+    "TA Project"
 ]
 tags: [
+    "C++",
+    "Python",
     "Classical Mechanics",
     "Numerical Simulation",
     "Ordinary Differential Equation"

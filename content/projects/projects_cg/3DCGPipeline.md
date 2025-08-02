@@ -3,19 +3,21 @@ author: "Ying-Shan Chen"
 title: "3D Computer Graphics Pipeline"
 date: '2022-11-28'
 categories: [
-    "computer graphics",
-    "course project"
+    "Computer Graphics",
+    "Course Project"
 ]
 tags: [
-    "Computer Graphics",
-    "OpenGLUT",
-    "C++"
+    "C++",
+    "OpenGLUT"
 ]
 description: "Implemented a 3D graphics pipeline that reads transformation, camera, and display commands from input files. Supports translation, scaling, rotation, clipping, viewport mapping, and .obj model rendering with back-face culling and triangle slicing."
 ---
+<p align="center">
+    <a href="https://www.researchgate.net/figure/Outline-of-the-graphics-pipeline_fig1_281810652"><img src="/self/img/projects_cg/3DCGPipeline/Outline-of-the-graphics-pipeline
+.png" width="600" style="margin-left:10px;margin-top:10px;margin-right:10px;margin-bottom:10px"></a> 
+</p>
 
-There are many test data in the forder and many input commands in each test data. 
-I read the files and complete the following instructions. Otherwise, the program would delete the graphic that is backward from camera.
+I read the files and complete the following instructions. There are many test data in the forder and many input commands in each test data. Otherwise, the program would delete the graphic that is backward from camera.
 
 🔗 See more details <a href="https://github.com/ChenYingShan1114/3D_CG_Pipeline"> here</a>.
 

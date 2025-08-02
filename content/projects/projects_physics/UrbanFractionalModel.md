@@ -3,16 +3,15 @@ author: "Ying-Shan Chen"
 title: "Urban Fractional Model"
 date: '2024-06-15'
 categories: [
-    "physics",
-    "work project"
+    "Physics",
+    "Work Project"
 ]
 tags: [
-    "Urban Fractional Model",
+    "Python",
     "HTML",
     "CSS",
-    "MySQL",
     "Flask",
-    "Python"
+    "MySQL"
 ]
 resume: "Developed a dynamic web application for fractional urban growth modeling by converting MATLAB code to Python. Built the frontend with HTML/CSS, implemented backend logic using Flask, and managed user accounts with MySQL."
 description: "Built a web platform for fractional urban growth modeling with Python, Flask, and MySQL. Users can upload data, run computations, and download visualized results."

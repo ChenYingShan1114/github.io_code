@@ -3,16 +3,16 @@ author: "Ying-Shan Chen"
 title: "Reconstruct Pixar's WALL·E"
 date: '2024-04-30'
 categories: [
-    "animation",
-    "mini project"
+    "Animation",
+    "Mini Project"
 ]
 tags: [
-    "modeling",
-    "rigging",
-    "lighting",
-    "animation",
-    "rendering",
-    "Autodesk Maya"
+    "Autodesk Maya",
+    "Modeling",
+    "Rigging",
+    "Lighting",
+    "Character Animation",
+    "Rendering"
 ]
 description: "A detailed 3D reconstruction of Pixar's WALL·E character, modeled and rigged in Maya. This project includes fine mechanical details, custom geometry for the logo, and hand rigging using binding and skinning techniques."
 ---

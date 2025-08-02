@@ -3,13 +3,12 @@ author: "Ying-Shan Chen"
 title: "Transformation and Clipping"
 date: '2022-10-31'
 categories: [
-    "computer graphics",
-    "course project"
+    "Computer Graphics",
+    "Course Project"
 ]
 tags: [
-    "Computer Graphics",
-    "OpenGLUT",
-    "C++"
+    "C++",
+    "OpenGLUT"
 ]
 description: "Implemented a 2D graphics interpreter that reads and executes transformation commands (translate, scale, rotate), clipping, and viewport mapping from input files. Supports drawing squares and triangles with random colors and visualizes the result using view transformation."
 ---

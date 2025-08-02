@@ -3,11 +3,12 @@ author: "Ying-Shan Chen"
 title: "Acceptance-Rejection Distribution Generator"
 date: '2023-12-14'
 categories: [
-    "physics",
-    "TA project"
+    "Physics",
+    "TA Project"
 ]
 tags: [
-    "Random Number",
+    "C++",
+    "Python",
     "Stochastic Method"
 ]
 description: "Used the acceptance-rejection method to generate samples from custom continuous and discrete distributions, including binomial and Poisson. Verified accuracy through histogram comparisons with analytical formulas."

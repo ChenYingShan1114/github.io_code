@@ -3,10 +3,11 @@ author: "Ying-Shan Chen"
 title: "Analysis of the Temperature Data at Hualien between 2010-2020"
 date: '2023-05-11'
 categories: [
-    "physics",
-    "course project"
+    "Physics",
+    "Course Project"
 ]
 tags: [
+    "MATLAB",
     "Data Analysis",
     "Fourier Transform"
 ]
@@ -14,10 +15,10 @@ description: "This study analyzes ocean and air temperature data in Hualien from
 ---
 ## Proposal
 <p align="center" >
-    <iframe class="pdf" src="/self/pdf/projects_physics/AnalyzeTemperature/proposal.pdf" width="600" height="850"> </iframe>
+    <iframe class="pdf" view="fit" src="/self/pdf/projects_physics/AnalyzeTemperature/proposal.pdf" width="600" height="850"> </iframe>
 </p>
 
 ## Result
 <p align="center" >
-    <iframe class="pdf" src="/self/pdf/projects_physics/AnalyzeTemperature/complex.pdf" width="600" height="850"> </iframe>
+    <iframe class="pdf" view="fit" src="/self/pdf/projects_physics/AnalyzeTemperature/complex.pdf" width="600" height="850"> </iframe>
 </p>

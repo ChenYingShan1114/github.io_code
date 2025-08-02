@@ -3,12 +3,12 @@ author: "Ying-Shan Chen"
 title: "Bouncing Ball with Legs Animation"
 date: '2025-03-30'
 categories: [
-    "animation",
-    "mini project"
+    "Animation",
+    "Mini Project"
 ]
 tags: [
-    "character animation",
-    "Autodesk Maya"
+    "Autodesk Maya",
+    "Character Animation"
 ]
 description: "An animation featuring a bouncing ball with legs, exploring how body and limb movement interact to create balance, elasticity, and expressive power in character motion."
 ---

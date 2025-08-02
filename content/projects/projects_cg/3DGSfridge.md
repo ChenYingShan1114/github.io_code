@@ -1,15 +1,16 @@
 ---
 author: "Ying-Shan Chen"
-title: "3DGS Rrefrigerator Animation"
+title: "3DGS Refrigerator Animation"
 date: '2025-02-21'
 categories: [
-    "computer graphics",
-    "intern project"
+    "Computer Graphics",
+    "Intern Project"
 ]
 tags: [
-    "Computer Graphics",
-    "3D Gaussian Splat",
-    "Java Script"
+    "HTML",
+    "CSS",
+    "Java Script",
+    "three.js"
 ]
 resume: "Generated 3D Gaussian Splatting models from multi-view object capture and implemented interactive animations using Three.js for real-to-sim visualization"
 
@@ -34,7 +35,9 @@ Personally, I find 3DGS a meaningful way to digitally preserve sentimental items
 </p>
 
 ## 3DGS Animation
-🔗 See more details <a href="https://github.com/ChenYingShan1114/Fridge-Animation"> here</a>.
+<!-- 🔗 See more details <a href="https://github.com/ChenYingShan1114/Fridge-Animation"> here</a>. -->
+🔗 More details available <a href="https://github.com/ChenYingShan1114/Fridge-Animation">here</a> (repository is private due to confidentiality agreement).
+
 
 To explore real-to-sim animation, I created an animated demo of a fridge model reconstructed using 3DGS:
 1. A 3DGS fridge model (with open door) was provided by a teammate.

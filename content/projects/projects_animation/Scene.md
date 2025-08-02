@@ -3,16 +3,16 @@ author: "Ying-Shan Chen"
 title: "The Solitude House"
 date: '2023-05-30'
 categories: [
-    "animation",
-    "practice"
+    "Animation",
+    "Practice"
 ]
 tags: [
-    "modeling",
-    "UV texturing",
-    "lighting",
-    "rendering",
     "Autodesk Maya",
-    "Substance 3D Painter"
+    "Substance 3D Painter",
+    "Modeling",
+    "UV Texturing",
+    "Lighting",
+    "Rendering"
 ]
 description: "A symbolic rendering of a solitary house, representing how moments of loneliness can become powerful opportunities for inner reflection and personal growth."
 ---

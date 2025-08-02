@@ -3,12 +3,14 @@ author: "Ying-Shan Chen"
 title: "Simple Digital Filter – Frequency Domain Analysis"
 date: '2023-11-07'
 categories: [
-    "physics",
-    "TA project"
+    "Physics",
+    "TA Project"
 ]
 tags: [
-    "Fourier Transform",
-    "Data Analysis"
+    "C++",
+    "Python",
+    "Data Analysis",
+    "Fourier Transform"
 ]
 description: "This project applies Fourier transform to analyze a composite sine wave signal and demonstrates how simple equations can function as digital filters. Both low-pass and high-pass filters are applied and visualized in the frequency domain."
 ---

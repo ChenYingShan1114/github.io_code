@@ -3,11 +3,14 @@ author: "Ying-Shan Chen"
 title: "Two Stream Instability Simulation in Plasma Physics"
 date: '2022-03-16'
 categories: [
-    "physics",
-    "research project"
+    "Physics",
+    "Research Project"
 ]
 tags: [
+    "Python",
+    "Electromagnetic",
     "Plasma Physics",
+    "Numerical Simulation",
     "Particle-in-Cell Simulation"
 ]
 resume: "Developed a poster series using virtual production techniques, combining Unreal Engine and LED panels. Blended real-time rendering with physical cinematography to create immersive medieval environments."
@@ -21,10 +24,10 @@ As a result of these relative motions, energy is transferred into the plasma, le
 
 ## Normalization Governing Equations
 <p align="center" >
-    <iframe class="pdf" src="/self/pdf/projects_physics/TwoStreamInstability/20220316_PIC_Normalization.pdf" width="600" height="500"> </iframe>
+    <iframe class="pdf" view="fit" src="/self/pdf/projects_physics/TwoStreamInstability/20220316_PIC_Normalization.pdf" width="600" height="500"> </iframe>
 </p>
 
 <h2> Simulation Result </h2>
 <p align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/e5qB_2GPrGc?si=ORlUVXlh5VtDlX7Q&autoplay=1&loop=1&playlist=e5qB_2GPrGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" view="fit" height="315" src="https://www.youtube.com/embed/e5qB_2GPrGc?si=ORlUVXlh5VtDlX7Q&autoplay=1&loop=1&playlist=e5qB_2GPrGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>

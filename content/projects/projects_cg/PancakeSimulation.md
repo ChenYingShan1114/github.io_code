@@ -3,13 +3,12 @@ author: "Ying-Shan Chen"
 title: "Pancake Simulation"
 date: '2025-05-28'
 categories: [
-    "computer graphics",
-    "work project"
+    "Computer Graphics",
+    "Work Project"
 ]
 tags: [
-    "Computer Graphics",
-    "Physics Engine",
-    "NVIDIA Omniverse"
+    "NVIDIA Omniverse",
+    "Physics Engine"
 ]
 resume: "Built physics-based animation of pancake cooking in NVIDIA Omniverse Isaac Sim using fluid and deformable body simulation. Tuned physical parameters to generate realistic motion and created AI training data for real-world robotic arm manipulation."
 
