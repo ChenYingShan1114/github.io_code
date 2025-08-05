@@ -11,7 +11,7 @@ tags: [
 ]
 description: "Self-studied physical-based animation through online course by Prof. Huamin Wang (chief scientist at Style3D)."
 ---
-<div align="center">
+<!-- <div align="center">
   <div class="flipbook">
     <div class="hard">
       GAMES103: 基于物理的计算机动画入门 <small>~ Note by Ying-Shan Chen</small>
@@ -67,11 +67,14 @@ description: "Self-studied physical-based animation through online course by Pro
     <div class="hard"></div>
     <div class="hard">The end <small>~</small></div>
   </div>
-  <a href="https://github.com/ChenYingShan1114/ChenYingShan1114.github.io/tree/main/self/pdf/projects_cg/NotePBA/categories">note link</a>
-  
 
   <script src="/self/js/jquery.js"></script>
   <script src="/self/js/turn.js"></script>
   <script>    $(".flipbook").turn();  </script>
-</div>
+</div> -->
+<a href="https://github.com/ChenYingShan1114/ChenYingShan1114.github.io/tree/main/self/pdf/projects_cg/NotePBA">Note Link</a>
 
+## Rigid Body
+<p align="center" >
+    <iframe class="pdf" view="fit" src="/self/pdf/projects_cg/NotePBA/NotePBA1_rigidbody.pdf" width="600" height="500"> </iframe>
+</p>

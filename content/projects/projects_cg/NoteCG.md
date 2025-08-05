@@ -8,7 +8,7 @@ categories: [
 ]
 description: "Self-studied foundational computer graphics through online course by Prof. Lingqi Yan (UC Santa Barbara)."
 ---
-<div align="center">
+<!-- <div align="center">
   <div class="flipbook">
     <div class="hard">
       GAMES101: 现代计算机图形学入门 <small>~ Note by Ying-Shan Chen</small>
@@ -195,10 +195,20 @@ description: "Self-studied foundational computer graphics through online course 
     <div class="hard"></div>
     <div class="hard">The end <small>~</small></div>
   </div>
-  <a href="https://github.com/ChenYingShan1114/ChenYingShan1114.github.io/tree/main/self/pdf/projects_cg/NoteCG/categories">note link</a>
 
   <script src="/self/js/jquery.js"></script>
   <script src="/self/js/turn.js"></script>
   <script>    $(".flipbook").turn();  </script>
-</div>
+</div> -->
+<a href="https://github.com/ChenYingShan1114/ChenYingShan1114.github.io/tree/main/self/pdf/projects_cg/NoteCG">Note Link</a>
+
+## Introduction, Vector, Matrix, Rasterization, Shading
+<p align="center" >
+    <iframe class="pdf" view="fit" src="/self/pdf/projects_cg/NoteCG/NoteCG1_intro_vector_matrix_rasterization_shading.pdf" width="600" height="500"> </iframe>
+</p>
+
+## Geometry, Ray Tracing
+<p align="center" >
+    <iframe class="pdf" view="fit" src="/self/pdf/projects_cg/NoteCG/NoteCG2_geometry_raytracing.pdf" width="600" height="500"> </iframe>
+</p>
 
