@@ -1,7 +1,7 @@
 ---
 author: "Ying-Shan Chen"
 title: "Intern at 3D modeling team, Information and Communications Research Laboratories, Industrial Technology Research Institute (ITRI), Hsinchu County, Taiwan"
-jobtitle: ["Intern at 3D modeling team, Information and Communications Research Laboratories"]
+jobtitle: ["Intern at 3D Modeling Team, Information and Communications Research Laboratories"]
 company: "Industrial Technology Research Institute (ITRI)"
 location: "Hsinchu County, Taiwan"
 date: '2024-08-21'

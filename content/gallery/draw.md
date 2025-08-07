@@ -3,6 +3,7 @@ title: "A Journey Through My Art"
 date: 2025-04-30
 draft: false
 description: "An interactive journey through my artwork since childhood, wrapped in a simple story and a playful treasure hunt to find hidden Taiwanese fruits."
+not_show_date: true
 ---
 
 <style>
@@ -18,7 +19,7 @@ body  {
 .gallery-container {
   position: relative;
   width: 100%;
-  height: 800px;
+  height: 1000px;
   margin: 0 auto;
 }
 
