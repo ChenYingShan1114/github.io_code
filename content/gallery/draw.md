@@ -1,7 +1,8 @@
 ---
-title: "My art works"
+title: "A Journey Through My Art"
 date: 2025-04-30
 draft: false
+description: "An interactive journey through my artwork since childhood, wrapped in a simple story and a playful treasure hunt to find hidden Taiwanese fruits."
 ---
 
 <style>
@@ -188,6 +189,9 @@ body  {
 </div>
 
 <script>
+
+let count = 0;
+
 document.addEventListener('DOMContentLoaded', function() {
   // Generic toggle function
   function createToggle(elementId, originalSrc, toggleSrc) {
@@ -199,10 +203,18 @@ document.addEventListener('DOMContentLoaded', function() {
       if (isOriginal) {
         img.src = toggleSrc;
         isOriginal = false;
+        count--;
       } else {
         img.src = originalSrc;
         isOriginal = true;
+        count++;
       }
+      if (count === 13) {
+        // Slight delay before alert so the last message shows
+        setTimeout(() => {
+            alert("Thank you for helping us collect the fruits!\n\nYou’ve earned a taste of Taiwan’s juicy treasures — mangoes, pineapples, lychees, and more!\n\nOne day, we hope you can come visit Taiwan and taste them for real! 🇹🇼🍍🍓");
+        }, 600);
+    }  
     });
   }
 
