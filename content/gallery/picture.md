@@ -8,6 +8,38 @@ not_show_date: true
 
 # Haven't done yet......
 
+Country:
+Taiwan🇹🇼
+Hong Kong🇭🇰
+Singapore🇸🇬
+Japan🇯🇵
+Koren🇰🇷
+China🇨🇳
+America🇺🇸
+Canada🇨🇦
+Germany🇩🇪
+Austria🇦🇹
+Hungary🇭🇺
+Czech Republic🇨🇿
+France🇫🇷
+Belgium🇧🇪
+Netherlands🇳🇱
+Switzerland🇨🇭
+Italy🇮🇹
+Vatican City🇻🇦
+Finland🇫🇮
+Sweden🇸🇪
+Norway🇳🇴
+Denmark🇩🇰
+Faroe Islands🇫🇴
+England🏴󠁧󠁢󠁥󠁮󠁧󠁿
+Scotland🏴󠁧󠁢󠁳󠁣󠁴󠁿
+Australia🇦🇺
+United Kingdom🇬🇧
+Monaco🇲🇨
+United Arab Emirates🇦🇪
+Thailand🇹🇭
+
 <!-- amCharts core and maps -->
 <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
 <script src="https://cdn.amcharts.com/lib/5/map.js"></script>
