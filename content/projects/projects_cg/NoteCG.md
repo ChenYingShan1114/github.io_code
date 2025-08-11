@@ -200,7 +200,9 @@ description: "Self-studied foundational computer graphics through online course 
   <script src="/self/js/turn.js"></script>
   <script>    $(".flipbook").turn();  </script>
 </div> -->
-<a href="https://github.com/ChenYingShan1114/ChenYingShan1114.github.io/tree/main/self/pdf/projects_cg/NoteCG">Note Link</a>
+<a href="https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html">GAMES101</a>: 现代计算机图形学入门 Introduction to Computer Graphics, Lectured by Prof. Lingqi Yan (闫令琪), Computer Science, UC Santa Barbara
+
+My Note <a href="https://github.com/ChenYingShan1114/ChenYingShan1114.github.io/tree/main/self/pdf/projects_cg/NoteCG">Link</a>
 
 ## Introduction, Vector, Matrix, Rasterization, Shading
 <p align="center" >

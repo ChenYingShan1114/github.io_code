@@ -72,7 +72,10 @@ description: "Self-studied physical-based animation through online course by Pro
   <script src="/self/js/turn.js"></script>
   <script>    $(".flipbook").turn();  </script>
 </div> -->
-<a href="https://github.com/ChenYingShan1114/ChenYingShan1114.github.io/tree/main/self/pdf/projects_cg/NotePBA">Note Link</a>
+
+<a href="https://games-cn.org/games103/">GAMES103</a>: 基于物理的计算机动画入门 Introduction to Physical-based Animation, Lectured by Prof. Huamin Wang (王华民), chief scientist, Style3D
+
+My Note <a href="https://github.com/ChenYingShan1114/ChenYingShan1114.github.io/tree/main/self/pdf/projects_cg/NotePBA">Link</a>
 
 ## Rigid Body
 <p align="center" >
