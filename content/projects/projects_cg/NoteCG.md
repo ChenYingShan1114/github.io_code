@@ -214,3 +214,8 @@ My Note <a href="https://github.com/ChenYingShan1114/ChenYingShan1114.github.io/
     <iframe class="pdf" view="fit" src="/self/pdf/projects_cg/NoteCG/NoteCG2_geometry_raytracing.pdf" width="600" height="500"> </iframe>
 </p>
 
+## Implementation
+1. <a href="/projects/projects_cg/transformationandclipping/">Transformation and Clipping</a>
+2. <a href="/projects/projects_cg/3dcgpipeline/"> Computer Graphics Pipeline</a>
+3. <a href="/projects/projects_cg/zbufferandshading/">Z-buffer and Shading</a>
+

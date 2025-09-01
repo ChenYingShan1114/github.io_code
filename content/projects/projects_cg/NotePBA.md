@@ -1,7 +1,7 @@
 ---
 author: "Ying-Shan Chen"
 title: "Note: Physical-based Animation"
-date: '2025-08-02'
+date: '2025-08-29'
 categories: [
     "Computer Graphics",
     "Note"
@@ -80,4 +80,19 @@ My Note <a href="https://github.com/ChenYingShan1114/ChenYingShan1114.github.io/
 ## Rigid Body
 <p align="center" >
     <iframe class="pdf" view="fit" src="/self/pdf/projects_cg/NotePBA/NotePBA1_rigidbody.pdf" width="600" height="500"> </iframe>
+</p>
+
+## Soft Body
+<p align="center" >
+    <iframe class="pdf" view="fit" src="/self/pdf/projects_cg/NotePBA/NotePBA2_softbody.pdf" width="600" height="500"> </iframe>
+</p>
+
+## Cloth
+<p align="center" >
+    <iframe class="pdf" view="fit" src="/self/pdf/projects_cg/NotePBA/NotePBA3_cloth.pdf" width="600" height="500"> </iframe>
+</p>
+
+## Fluid
+<p align="center" >
+    <iframe class="pdf" view="fit" src="/self/pdf/projects_cg/NotePBA/NotePBA4_fluid.pdf" width="600" height="500"> </iframe>
 </p>
