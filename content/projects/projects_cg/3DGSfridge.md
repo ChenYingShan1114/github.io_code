@@ -12,7 +12,7 @@ tags: [
     "Java Script",
     "three.js"
 ]
-resume: "Generated 3D Gaussian Splatting models from multi-view object capture and implemented interactive animations using Three.js for real-to-sim visualization"
+resume: "Generated 3D Gaussian Splatting models from multi-view object capture and implemented interactive animations using Three.js for real-to-sim visualization."
 
 description: "Captured real-world objects to generate 3D Gaussian Splatting (3DGS) models and created interactive scenes with animations using Three.js."
 ---

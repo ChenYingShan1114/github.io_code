@@ -7,6 +7,7 @@ location: "Hsinchu City, Taiwan"
 date: '2025-08-01'
 periods: ["August 2025 - Present"]
 jobs: [
+    ['true /projects/projects_physics/Quadcopter.md']
     ]
 skills: [
     ]

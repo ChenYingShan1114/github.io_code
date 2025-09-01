@@ -13,9 +13,16 @@ tags: [
     "Java Script",
     "three.js"
 ]
+resume: "Derivative the eqaution of motion of quadcopter."
+
 description: "Derivative the eqaution of motion of quadcopter and implement the motion by an interactive scene."
 ---
 <main>
+
+<p align="center" >
+    <iframe class="pdf" view="fit" src="/self/pdf/projects_physics/Quadcopter/20250822.pdf" width="600" height="500"> </iframe>
+</p>
+
 <span style="display: flex; flex-direction: column; align-items: center; height: 700px;">
     <br>
     <div style="font-size: 18px;">Quadcopter Simulation</div>
