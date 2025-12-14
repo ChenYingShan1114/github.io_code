@@ -7,10 +7,10 @@ location: "Taoyuan City, Taiwan"
 date: '2022-09-01'
 periods: ["September 2022 - January 2024"]
 jobs: [
-    ["GPA: 4.0"]
+    ["GPA: 4.0/4.3"]
 ]
 logo: /self/img/logo/NCU.jpg
 
 ---
 GPA: 4.0/4.0
-GPA: 4.15/4.3
+GPA: 4.0/4.3

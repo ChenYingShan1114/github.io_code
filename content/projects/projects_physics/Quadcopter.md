@@ -7,13 +7,14 @@ categories: [
     "Work Project"
 ]
 tags: [
+    "NVIDIA Omniverse",
     "Classical Mechanics",
     "Numerical Simulation",
     "Derivation",
     "Java Script",
     "three.js"
 ]
-resume: "Derivative the eqaution of motion of quadcopter."
+resume: "Developed a physics-based quadcopter simulation by deriving its equations of motion and integrating the model into NVIDIA Omniverse using Kit Extension tools."
 
 description: "Derivative the eqaution of motion of quadcopter and implement the motion by an interactive scene."
 ---

@@ -7,7 +7,7 @@ location: "Taoyuan City, Taiwan"
 date: '2018-09-01'
 periods: ["September 2018 - June 2022"]
 jobs: [
-    ["GPA: 3.9", "RANK: 3/53 (Top 6%)"]
+    ["GPA: 4.02/4.3", "RANK: 3/53 (Top 6%)"]
 ]
 logo: /self/img/logo/NCU.jpg
 

@@ -1,7 +1,7 @@
 ---
 author: "Ying-Shan Chen"
 title: "National Center for High-performance Computing, Hsinchu City, Taiwan"
-jobtitle: ["3D Physical Model Development Engineer, Cyber Physical System and Digital Twin Division"]
+jobtitle: ["3D Physics Simulation R&D Engineer, Cyber Physical System and Digital Twin Division"]
 company: "National Center for High-performance Computing (NCHC)"
 location: "Hsinchu City, Taiwan"
 date: '2025-08-01'

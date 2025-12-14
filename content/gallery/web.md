@@ -59,6 +59,7 @@ not_show_date: true
 -20250901：新增四軸直升機動畫和理論、新增games103筆記
 
 20250915：新增ITRI2 playcanvas web viewer的工作項目
+20251214：根據fall2026申請資料更新網頁
 <br>
 
 ## Lessons learned

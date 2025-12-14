@@ -1,8 +1,8 @@
 ---
 author: "Ying-Shan Chen"
-title: "Activities"
+title: "Extracurricular Activities"
 jobtitle: [
-    "Activities"
+    "Extracurricular Activities"
 ]
 date: '2021-09-01'
 jobs: [
