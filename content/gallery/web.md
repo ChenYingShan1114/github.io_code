@@ -60,6 +60,7 @@ not_show_date: true
 
 20250915：新增ITRI2 playcanvas web viewer的工作項目
 20251214：根據fall2026申請資料更新網頁
+20251215：冰箱動畫、無人機專案更新
 <br>
 
 ## Lessons learned

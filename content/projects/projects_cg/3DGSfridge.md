@@ -55,5 +55,9 @@ To complete the simulation, I placed the fridge in a virtual room and added inte
     <iframe width="560" height="315" src="https://www.youtube.com/embed/EEthVJPCRZo?si=xPuSPmrN77rIC-sx&autoplay=1&loop=1&playlist=EEthVJPCRZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
+## Demo
+The <a href="https://venreal3d-staging.venraas.tw/viewer/demo/">demo website</a> currently (Dec. 15 2025) operates based on the PlayCanvas engine.
+
+
 ## Article
  <a href="https://ictjournal.itri.org.tw/xcdoc/cont?xsmsid=0M236556470056558161&sid=0P126696552805717382">從高斯潑濺到數位雙生-3D建模的創新應用</a>
