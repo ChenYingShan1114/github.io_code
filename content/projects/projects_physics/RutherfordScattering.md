@@ -59,3 +59,11 @@ Numerical trajectory of alpha particle using adaptive Runge-Kutta method
 <p align="center">
     <img src="/self/img/projects_physics/RutherfordScattering/Rutherford_scattering_RK4.png" width="600" style="margin-left:10px;margin-top:10px;margin-right:10px;margin-bottom:10px"> 
 </p>
+
+## Play the Particles Here!
+<span style="display: flex; flex-direction: column; align-items: center; height: 500px;">
+    <!-- <br> -->
+    <div id="threejs-container-rutherford" style="width: 700px; height: 500px;"><div class = 'moveGUI-rutherford' style="position: absolute; "></div></div>     
+</span>
+
+<script type="module" src="/self/js/threejs_script_rutherford.js"></script>
