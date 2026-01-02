@@ -63,6 +63,10 @@ not_show_date: true
 20251214：根據fall2026申請資料更新網頁
 
 20251215：冰箱動畫、無人機專案更新
+
+20251223：新增拉塞福散射three.js demo
+
+20260102：新增PIC publication
 <br>
 
 ## Lessons learned
