@@ -67,6 +67,8 @@ not_show_date: true
 20251223：新增拉塞福散射three.js demo
 
 20260102：新增PIC publication
+
+20250103：換電腦
 <br>
 
 ## Lessons learned
