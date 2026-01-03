@@ -14,6 +14,7 @@ tags: [
 description: "Simulated electromagnetic wave propagation using FDTD in vacuum, dielectric, and lossy dielectric media with hard, soft, and absorbing boundary conditions."
 ---
 
+test 2026.01.03
 <p align="center" >
     <iframe class="pdf" view="fit" src="/self/pdf/projects_physics/FDTD/fdtd1.pdf" width="600" height="500"> </iframe>
 </p>
