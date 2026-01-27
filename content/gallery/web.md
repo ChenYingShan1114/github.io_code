@@ -68,7 +68,9 @@ not_show_date: true
 
 20260102：新增PIC publication
 
-20250103：換電腦
+20260103：換電腦
+
+20260127：新增mass-spring 專案；修projects頁面點分類頁面的bug
 <br>
 
 ## Lessons learned

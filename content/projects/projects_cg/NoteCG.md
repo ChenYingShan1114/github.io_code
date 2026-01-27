@@ -8,6 +8,13 @@ categories: [
 ]
 description: "Self-studied foundational computer graphics through online course by Prof. Lingqi Yan (UC Santa Barbara)."
 ---
+## Related Projects
+1. <a href="/projects/projects_cg/transformationandclipping/">Transformation and Clipping</a>
+2. <a href="/projects/projects_cg/3dcgpipeline/"> Computer Graphics Pipeline</a>
+3. <a href="/projects/projects_cg/zbufferandshading/">Z-buffer and Shading</a>
+
+## Reference
+
 <!-- <div align="center">
   <div class="flipbook">
     <div class="hard">
@@ -202,20 +209,15 @@ description: "Self-studied foundational computer graphics through online course 
 </div> -->
 <a href="https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html">GAMES101</a>: 现代计算机图形学入门 Introduction to Computer Graphics, Lectured by Prof. Lingqi Yan (闫令琪), Computer Science, UC Santa Barbara
 
+## Note
 My Note <a href="https://github.com/ChenYingShan1114/ChenYingShan1114.github.io/tree/main/self/pdf/projects_cg/NoteCG">Link</a>
 
-## Introduction, Vector, Matrix, Rasterization, Shading
+* ### Introduction, Vector, Matrix, Rasterization, Shading
 <p align="center" >
     <iframe class="pdf" view="fit" src="/self/pdf/projects_cg/NoteCG/NoteCG1_intro_vector_matrix_rasterization_shading.pdf" width="600" height="500"> </iframe>
 </p>
 
-## Geometry, Ray Tracing
+* ### Geometry, Ray Tracing
 <p align="center" >
     <iframe class="pdf" view="fit" src="/self/pdf/projects_cg/NoteCG/NoteCG2_geometry_raytracing.pdf" width="600" height="500"> </iframe>
 </p>
-
-## Implementation
-1. <a href="/projects/projects_cg/transformationandclipping/">Transformation and Clipping</a>
-2. <a href="/projects/projects_cg/3dcgpipeline/"> Computer Graphics Pipeline</a>
-3. <a href="/projects/projects_cg/zbufferandshading/">Z-buffer and Shading</a>
-
