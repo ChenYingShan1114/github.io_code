@@ -13,7 +13,7 @@ tags: [
 description: "Use variational mechanics and time integration methods to implement 1D and 3D mass string systems."
 ---
 
-🔗 See more details about <a href="https://github.com/dilevin/CSC417-a1-mass-spring-1d">1D</a> and <a href="https://github.com/dilevin/CSC417-a2-mass-spring-3d?tab=readme-ov-file#¹macusers">3D</a> mass spring systems</a> from physical-based animation course at University of Toronto.
+🔗 See more details about <a href="https://github.com/ChenYingShan1114/1d-mass-spring-system">1D</a> and <a href="https://github.com/ChenYingShan1114/3d-mass-spring-system">3D</a> mass spring systems</a>, forked from the projects in physical-based animation course at University of Toronto.
   
 ## 1D Mass Spring System with Different Algorithms
     
@@ -58,3 +58,8 @@ description: "Use variational mechanics and time integration methods to implemen
 <p align="center">
     <video src="/self/mp4/projects_cg/MassSpringSystem/3d-mass-spring-bunny.mov" controls type="video/mov" width="600"></video>
 </p>
+
+## Reference
+1. <a href="https://www.youtube.com/watch?v=5j37DOD8q4U&list=PLTkE7n2CwG_PH09_q0Q7ttjqE2F9yGeM3&index=2">Physics_based Animation Lecture 1</a>
+2. <a href="https://www.youtube.com/watch?v=wpZe1PI7uhQ&list=PLTkE7n2CwG_PH09_q0Q7ttjqE2F9yGeM3&index=3">Physics-Based Animation Lecture 2: Time Integration</a>
+3. <a href="https://www.youtube.com/watch?v=9DcKg77nQBA&list=PLTkE7n2CwG_PH09_q0Q7ttjqE2F9yGeM3&index=5">Physics-Based Animation Lecture 3: Mass-Spring Systems in 3D</a>

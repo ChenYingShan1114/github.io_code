@@ -70,7 +70,9 @@ not_show_date: true
 
 20260103：換電腦
 
-20260127：新增mass-spring 專案；修projects頁面點分類頁面的bug
+20260127：新增mass-spring 專案；修projects頁面點分類頁面的bug；新增追蹤使用者map
+
+20260212：新增mass-spring 專案github link
 <br>
 
 ## Lessons learned
