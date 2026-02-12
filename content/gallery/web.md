@@ -1,7 +1,7 @@
 ---
 title: "My Personal Web"
 date: 1999-11-14
-draft: false
+draft: true
 description: "just record web devlog for myself......"
 not_show_date: true
 ---
@@ -72,7 +72,9 @@ not_show_date: true
 
 20260127：新增mass-spring 專案；修projects頁面點分類頁面的bug；新增追蹤使用者map
 
-20260212：新增mass-spring 專案github link
+20260211：新增mass-spring 專案github link
+
+20260212：新增fem 專案、調整mapmyvisitor位置
 <br>
 
 ## Lessons learned
