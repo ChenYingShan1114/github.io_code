@@ -20,16 +20,31 @@ Using neo-Hookean strain energy function.
 ## Linearly Implicit Euler Method
     
 * ### Stanford Bunny
+    * ### Coarse Tetrahedral Grid
 
-<p align="center">
-    <video src="/self/mp4/projects_cg/FiniteElementMethod/fem-linearly-bunny.mov" controls type="video/mov" width="600"></video>
-</p>
+    <p align="center">
+        <video src="/self/mp4/projects_cg/FiniteElementMethod/fem-linearly-bunny.mov" controls type="video/mov" width="600"></video>
+    </p>
+
+    * ### Coarse Tetrahedral Grid with High Poly Skinning
+
+    <p align="center">
+        <video src="/self/mp4/projects_cg/FiniteElementMethod/fem-linearly-bunny-skinning.mov" controls type="video/mov" width="600"></video>
+    </p>
 
 * ### Armadillo
+    * ### Coarse Tetrahedral Grid
 
-<p align="center">
-    <video src="/self/mp4/projects_cg/FiniteElementMethod/fem-linearly-arma.mov" controls type="video/mov" width="600"></video>
-</p>
+    <p align="center">
+        <video src="/self/mp4/projects_cg/FiniteElementMethod/fem-linearly-arma.mov" controls type="video/mov" width="600"></video>
+    </p>
+
+    * ### Coarse Tetrahedral Grid with High Poly Skinning
+    <p align="center">
+        <video src="/self/mp4/projects_cg/FiniteElementMethod/fem-linearly-arma-skinning.mov" controls type="video/mov" width="600"></video>
+    </p>
+
+
 
 ## Fully Implicit with Newton Method
 
