@@ -74,7 +74,7 @@ not_show_date: true
 
 20260211：新增mass-spring 專案github link
 
-20260212：新增fem 專案、調整mapmyvisitor位置
+20260212：新增fem 專案、調整mapmyvisitor位置、調整footer
 <br>
 
 ## Lessons learned
