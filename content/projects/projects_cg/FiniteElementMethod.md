@@ -8,6 +8,7 @@ categories: [
 ]
 tags: [
     "Physical Based Animation",
+    "variational principle",
     "C++"
 ]
 description: "Use finite element method to implement deformable objects."
@@ -47,8 +48,12 @@ Using neo-Hookean strain energy function.
 
 
 ## Fully Implicit with Newton Method
+* ### Armadillo
+    * ### Coarse Tetrahedral Grid
 
-coming soon ...
+    <p align="center">
+        <video src="/self/mp4/projects_cg/FiniteElementMethod/fem-newton-arma.mov" controls type="video/mov" width="600"></video>
+    </p>
 <!-- * ### Cube
 <p align="center">
     <video src="/self/mp4/projects_cg/MassSpringSystem/3d-mass-spring-cube.mov" controls type="video/mov" width="600"></video>

@@ -8,6 +8,7 @@ categories: [
 ]
 tags: [
     "Physical Based Animation",
+    "variational principle",
     "C++"
 ]
 description: "Use variational mechanics and time integration methods to implement 1D and 3D mass string systems."
