@@ -79,6 +79,8 @@ not_show_date: true
 20260212：新增fem 專案、調整mapmyvisitor位置、調整footer
 
 20260215：新增newton method fem影片、digital earth 專案
+
+20260226：新增cloth simulation 專案
 <br>
 
 ## Lessons learned
