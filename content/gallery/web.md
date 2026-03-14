@@ -81,6 +81,8 @@ not_show_date: true
 20260215：新增newton method fem影片、digital earth 專案
 
 20260226：新增cloth simulation 專案
+
+20260313：新增rigid body 專案
 <br>
 
 ## Lessons learned
