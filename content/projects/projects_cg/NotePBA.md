@@ -16,8 +16,7 @@ description: "Self-studied physical-based animation through online course by Pro
 2. <a href="/projects/projects_cg/finiteelementmethod/">Finite Element Method</a>
 3. <a href="/projects/projects_cg/clothsimulation/">Cloth Simulation</a>
 4. <a href="/projects/projects_cg/rigidbody/">Rigid Body Motion</a>
-<!-- 2. <a href="/projects/projects_cg/3dcgpipeline/"> Computer Graphics Pipeline</a>
-3. <a href="/projects/projects_cg/zbufferandshading/">Z-buffer and Shading</a> -->
+5. <a href="/projects/projects_cg/fluidsimulation/">PIC-FLIP Fluids Simulation</a>
 
 ## Reference
 

@@ -88,6 +88,7 @@ not_show_date: true
 
 20260330：新增fluid simulation 專案
 
+20260415：新增kinematics 專案
 <br>
 
 ## Lessons learned
