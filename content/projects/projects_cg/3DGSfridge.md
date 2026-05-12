@@ -56,7 +56,7 @@ To complete the simulation, I placed the fridge in a virtual room and added inte
 </p>
 
 ## Demo
-The <a href="https://venreal3d-staging.venraas.tw/viewer/demo/">demo website</a> currently (Dec. 15 2025) operates based on the PlayCanvas engine.
+The <a href="https://venreal3d-staging.venraas.tw/viewer/demo/fridge">demo website</a> currently (Dec. 15 2025) operates based on the PlayCanvas engine.
 
 
 ## Article

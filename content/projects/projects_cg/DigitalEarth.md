@@ -28,3 +28,7 @@ First, the number of raindrop particles is set, then a rainfall system is genera
     <video src="/self/mp4/projects_cg/DigitalEarth/rain_1000.mp4" controls type="video/mov" width="600"></video>
 </p>
 
+## Fog
+<p align="center">
+    <video src="/self/mp4/projects_cg/DigitalEarth/fog.mp4" controls type="video/mov" width="600"></video>
+</p>

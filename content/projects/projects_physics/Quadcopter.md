@@ -24,18 +24,25 @@ description: "Derivative the eqaution of motion of quadcopter and implement the 
     <iframe class="pdf" view="fit" src="/self/pdf/projects_physics/Quadcopter/20250822.pdf" width="600" height="500"> </iframe>
 </p>
 
+## Demo Video on Omniverse Platform
+
+* ### Single quadcopter
+<p align="center">
+    <video src="/self/mp4/projects_physics/Quadcopter/quadcopter_1.mp4" autoplay controls loop type="video/mp4" width="650"></video>
+    <video src="/self/mp4/projects_physics/Quadcopter/quadcopter_2.mp4" autoplay controls loop type="video/mp4" width="650"></video>
+</p>
+
+* ### Multi-quadcopter using parallel processing
+<p align="center">
+    <video src="/self/mp4/projects_physics/Quadcopter/5_drones.mp4" autoplay controls loop type="video/mp4" width="650"></video>
+</p>
+
 ## Play the Quadcopter Here!
 <span style="display: flex; flex-direction: column; align-items: center; height: 500px;">
     <!-- <br> -->
     <!-- <div style="font-size: 18px;">Quadcopter Simulation</div> -->
     <div id="threejs-container-quadcopter" style="width: 700px; height: 500px;"><div class = 'moveGUI-quadcopter' style="position: absolute; "></div></div>     
 </span>
-
-<!-- ## Demo Video on Omniverse Platform -->
-<p align="center">
-    <video src="/self/mp4/projects_physics/Quadcopter/quadco1.mp4" autoplay controls loop type="video/mp4" width="650"></video>
-    <video src="/self/mp4/projects_physics/Quadcopter/qu2.mp4" autoplay controls loop type="video/mp4" width="650"></video>
-</p>
 
 <script type="module" src="/self/js/threejs_script_quadcopter.js"></script>
 </main>
