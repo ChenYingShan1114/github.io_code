@@ -18,7 +18,7 @@ description: "Use VEX in Houdini to implement the Boids algorithm to demonstrate
 
 🔗 If you need the project file, please email me. <!---https://github.com/ChenYingShan1114/PIC-FLIP-Fluids--->
 
-## Waterfall
+## Flocking with gravity
 <p align="center">
     <video src="/self/mp4/projects_cg/Flocking/flocking.mov" controls type="video/mov" width="600"></video>
 </p>      
