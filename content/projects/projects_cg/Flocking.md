@@ -6,7 +6,7 @@ categories: [
     "Computer Graphics",
     "Practice"
 ]
-tags: [s
+tags: [
     "Physical Based Animation",
     "Crowd Simulation",
     "Houdini",
