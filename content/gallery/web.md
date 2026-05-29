@@ -91,6 +91,8 @@ not_show_date: true
 20260415：新增kinematics 專案
 
 20260512：更新digital earth、quadcopter專案，冰箱動畫專案網址
+
+20260529：新增Houdini flocking
 <br>
 
 ## Lessons learned

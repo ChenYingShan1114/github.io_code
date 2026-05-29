@@ -24,12 +24,12 @@ Higher-order spherical harmonics result in more vivid, accurate models—but als
 
 Personally, I find 3DGS a meaningful way to digitally preserve sentimental items without taking up physical space. Below are two examples I reconstructed:
 
-1. Slinky Dog, which is my favorite Pixar character. I purchased at Tokyo Disneyland.
+1. <a href="https://venreal3d-staging.venraas.tw/viewer/?&url=https://storage.googleapis.com/macaron_melody/Sandy/20241024_slinky.ply&cu=0.16,0.03,-1.0&cp=1.71,0.13,-1.55&cla=-0.21,0.27,-0.39&svo=4&noui=0">Slinky Dog</a>, which is my favorite Pixar character. I purchased at Tokyo Disneyland.
 <p align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/WyFcS6JCUUA?si=-PTVyFrgMxis6-VZ&autoplay=1&loop=1&playlist=WyFcS6JCUUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-2. Einstein doll, which my dad bought for me when he traveled to Europe, symbolizing our shared physics background.
+2. <a href="https://venreal3d-staging.venraas.tw/viewer/?&url=https://storage.googleapis.com/macaron_melody/Sandy/20241025_einstein.ply&cu=0.57,0.19,0.8&cp=-0.15,-1.07,1.2&cla=-0.01,0.07,0.01&svo=4&noui=0">Einstein doll</a>, which my dad bought for me when he traveled to Europe, symbolizing our shared physics background.
 <p align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/A7ipDpDIhX8?si=AAKfSAixf4cqVkL2&autoplay=1&loop=1&playlist=A7ipDpDIhX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
