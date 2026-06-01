@@ -93,6 +93,8 @@ not_show_date: true
 20260512：更新digital earth、quadcopter專案，冰箱動畫專案網址
 
 20260529：新增Houdini flocking
+
+20260601：更新digital earth cloud
 <br>
 
 ## Lessons learned
